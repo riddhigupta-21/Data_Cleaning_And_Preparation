@@ -22,22 +22,22 @@ Order ID, date, customer, product, quantity, unit price, order status,
 payment method, coupon code, referral source and total price.
 
 ## Files
-- `dataset.csv` — project dataset
-- `decodeLabs_project3.db` — ready-to-run SQLite database
+-  — project dataset
+- project3.db` — ready-to-run SQLite database
 - `schema.sql` — table definition
 - `analysis.sql` — SQL analysis queries
 - `query_results.md` — key results/insights
 
 ## How to run
 ### Option 1 — DB Browser for SQLite
-1. Open `decodeLabs_project3.db`.
+1. Open project3.db`.
 2. Open the **Execute SQL** tab.
 3. Copy queries from `analysis.sql`.
 4. Run them and show the result grid.
 
 ### Option 2 — SQLite command line
 ```sql
-.open decodeLabs_project3.db
+.open project3.db
 .read analysis.sql
 ```
 
@@ -57,4 +57,4 @@ payment method, coupon code, referral source and total price.
 
 ## Portfolio outcome
 This project demonstrates practical SQL querying, filtering, aggregation,
-grouping and business-oriented data interpretation as part of the DecodeLabs internship.
+grouping and business-oriented data interpretation.
