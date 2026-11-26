@@ -1,7 +1,7 @@
-# DecodeLabs Internship — Project 3: SQL Data Analysis
+#  Project SQL Data Analysis
 
-**Internship:** DecodeLabs Industrial Training Kit — Batch 2026  
-**Project:** Project 3 — SQL Data Analysis
+  
+**Project: Project 3 — SQL Data Analysis
 
 ## Objective
 Use SQL queries to extract actionable insights from an order dataset.
