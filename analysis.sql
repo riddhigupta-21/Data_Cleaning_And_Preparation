@@ -1,4 +1,4 @@
--- DecodeLabs | Project 3: SQL Data Analysis
+--  Project 3: SQL Data Analysis
 -- Dataset table: orders
 -- Focus: SELECT, WHERE, ORDER BY, GROUP BY, COUNT, SUM, AVG
 
